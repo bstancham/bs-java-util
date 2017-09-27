@@ -1,7 +1,7 @@
 package info.bschambers.bsutil;
 
 /**
- * <p>Designed to assist in building GUI interfaces for methods with multiple
+ * <p>Automates building of GUI interfaces for methods with multiple
  * parameters.</p>
  *
  * <p>The parameters class is usually just a container class maybe even just a
