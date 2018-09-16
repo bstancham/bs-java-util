@@ -13,7 +13,7 @@ import java.util.Arrays;
  * <p>TODO: unit testing</p>
  */
 public final class BSArrays {
-    
+
     private BSArrays() {} // prevent instantiation
 
     /**
