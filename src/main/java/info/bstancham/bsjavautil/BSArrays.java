@@ -1,4 +1,4 @@
-package info.bschambers.bsutil;
+package info.bstancham.bsjavautil;
 
 import java.util.Arrays;
 

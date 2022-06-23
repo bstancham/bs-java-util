@@ -1,4 +1,4 @@
-package info.bschambers.bsutil.misc;
+package info.bstancham.bsjavautil.misc;
 
 /**
  * <p>Generates random names, which are usually pronouncible, via a very simple

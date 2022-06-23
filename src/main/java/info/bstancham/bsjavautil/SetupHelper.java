@@ -1,4 +1,4 @@
-package info.bschambers.bsutil;
+package info.bstancham.bsjavautil;
 
 /**
  * <p>Automates building of GUI interfaces for methods with multiple

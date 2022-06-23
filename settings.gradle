@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'bsjutil'
+rootProject.name = 'bs-java-util'
