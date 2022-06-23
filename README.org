@@ -1,0 +1,19 @@
+#+TITLE: BS-JAVA-UTIL
+
+* Introduction
+
+/bsjutil-version:/
+
+A collection of mostly obsolete Java utilities. Mostly a bit pointless but still
+here because I have at least one major project which depends on some of this
+stuff.
+
+* Compilation
+
+Build program and run tests:
+
+: $ gradlew all
+
+Build documentation:
+
+: $ gradlew javadoc
